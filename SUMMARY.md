@@ -4,9 +4,10 @@
 
 ## CTFs
 
-* [Hack The Box](ctfs/hack-the-box.md)
-* [Pandora](ctfs/pandora.md)
-* [Paper](ctfs/paper.md)
+* [Hack The Box](ctfs/hack-the-box/README.md)
+  * [Pandora](ctfs/hack-the-box/pandora.md)
+  * [Paper](ctfs/hack-the-box/paper.md)
+  * [Jerry](ctfs/hack-the-box/jerry.md)
 
 ## Web
 
