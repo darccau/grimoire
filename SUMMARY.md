@@ -21,7 +21,7 @@
 ## Web
 
 * [Attacks](web/attacks/README.md)
-  * [SQLI](web/attacks/sqli.md)
+  * [SQLI](web/sqli.md)
   * [XSS](web/attacks/xss.md)
   * [XXE](web/attacks/xxe.md)
 
