@@ -9,6 +9,7 @@
   * [Paper](ctfs/hack-the-box/paper.md)
   * [Jerry](ctfs/hack-the-box/jerry.md)
   * [RouterSpace](ctfs/hack-the-box/routerspace.md)
+  * [Meta](ctfs/hack-the-box/meta.md)
 
 ## Recon
 

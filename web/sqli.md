@@ -1,6 +1,2 @@
----
-description: SQL Injection
----
-
 # SQLI
 
