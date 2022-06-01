@@ -10,10 +10,12 @@
   * [Jerry](ctfs/hack-the-box/jerry.md)
   * [RouterSpace](ctfs/hack-the-box/routerspace.md)
   * [Meta](ctfs/hack-the-box/meta.md)
+  * [Time](ctfs/hack-the-box/time.md)
 
 ## Recon
 
-* [Network Scanning](recon/network-scanning.md)
+* [network Scanning](recon/network-scanning.md)
+* [fuzzy](recon/fuzzy.md)
 * [subdomains](recon/subdomains.md)
 
 ## Enumeration
