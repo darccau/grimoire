@@ -14,7 +14,7 @@
 
 ## Recon
 
-* [network Scanning](recon/network-scanning.md)
+* [network scanning](recon/network-scanning.md)
 * [fuzzy](recon/fuzzy.md)
 * [subdomains](recon/subdomains.md)
 
