@@ -37,9 +37,13 @@
 
 * [Phishing](social-engineering/phishing.md)
 
+## Exploitation
+
+* [shelling](exploitation/shelling.md)
+
 ## Post Exploitation
 
-* [Page 6](post-exploitation/page-6.md)
+* [privilage escalation](post-exploitation/privilage-escalation.md)
 
 ## Networks
 
