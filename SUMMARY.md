@@ -43,7 +43,7 @@
 
 ## Post Exploitation
 
-* [privilage escalation](post-exploitation/privilage-escalation.md)
+* [privilage escalation](post-exploitation/page-6.md)
 
 ## Networks
 
