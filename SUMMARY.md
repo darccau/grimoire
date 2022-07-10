@@ -5,12 +5,14 @@
 ## CTFs
 
 * [Hack The Box](ctfs/hack-the-box/README.md)
+  * [Devel](ctfs/hack-the-box/devel.md)
   * [Pandora](ctfs/hack-the-box/pandora.md)
   * [Paper](ctfs/hack-the-box/paper.md)
   * [Jerry](ctfs/hack-the-box/jerry.md)
   * [RouterSpace](ctfs/hack-the-box/routerspace.md)
   * [Meta](ctfs/hack-the-box/meta.md)
   * [Time](ctfs/hack-the-box/time.md)
+  * [Catch](ctfs/hack-the-box/catch.md)
 
 ## Recon
 
@@ -28,6 +30,7 @@
   * [SQLI](web/sqli.md)
   * [XSS](web/attacks/xss.md)
   * [XXE](web/attacks/xxe.md)
+* [web technologies](web/web-technologies.md)
 
 ## Pwn
 
