@@ -1,6 +1,6 @@
 # Jerry
 
-![](../../.gitbook/assets/jerry.png)
+![](../../../.gitbook/assets/jerry.png)
 
 At the beginning, i start running nmap with some flags to execute default scripts and get services version.
 
