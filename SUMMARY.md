@@ -32,6 +32,7 @@
   * [SQLI](web/sqli.md)
   * [XSS](web/attacks/xss.md)
   * [XXE](web/attacks/xxe.md)
+* [SSTI](web/ssti.md)
 * [web technologies](web/web-technologies.md)
 
 ## Pwn

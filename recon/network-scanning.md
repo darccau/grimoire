@@ -3,13 +3,13 @@
 ### Nmap&#x20;
 
 ```
-nmap -F -iL $ips -oN nmap.scan -Pn
+nmap -F -iL $rhost -Pn -oN nmap.scan 
 ```
 
 ### Full scan
 
 ```
-nmap -sC -sV -p- -iL $ips -oN nmap.fullscan -Pn
+nmap -sC -sV -p- -iL -Pn $rhost -oN nmap.fullscan 
 ```
 
 ```
