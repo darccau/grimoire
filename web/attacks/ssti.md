@@ -115,6 +115,6 @@ ${product.getClass().getProtectionDomain().getCodeSource().getLocation().toURI()
 ### Filtering bypass
 
 ```
-*{payload
+*{payload}
 #{payload}
 ```
