@@ -33,7 +33,8 @@
   * [XSS](web/attacks/xss.md)
   * [XXE](web/attacks/xxe.md)
   * [SSTI](web/attacks/ssti.md)
-* [web technologies](web/web-technologies.md)
+* [web technologies](web/web-technologies/README.md)
+  * [VHost](web/web-technologies/vhost.md)
 
 ## Pwn
 
