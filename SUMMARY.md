@@ -19,7 +19,7 @@
 ## Recon
 
 * [network scanning](recon/network-scanning.md)
-* [fuzzy](recon/fuzzy.md)
+* [Fuzzy](recon/fuzzy.md)
 * [subdomains](recon/subdomains.md)
 
 ## Enumeration

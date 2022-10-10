@@ -1,15 +1,9 @@
-# fuzzy
+# Fuzzy
 
 ### ffuf
 
 ```
 ffuf -v -c -u http://$ip/FUZZ -w wordlist -t 10000 -mc all -of csv
-```
-
-### feroxbuster
-
-```
-feroxbuster -u http://$ip.com -w wordlist -o output --json -t 100000
 ```
 
 ### vhost enumeration

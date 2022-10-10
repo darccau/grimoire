@@ -1,45 +1,27 @@
 # network scanning
 
-### Nmap&#x20;
+### Open ports&#x20;
 
 ```
-nmap -F -iL $rhost -Pn -oN nmap.scan 
-```
-
-### Full scan
-
-```
-nmap -sC -sV -p- -iL -Pn $rhost -oN nmap.fullscan 
+nmap -F $rhost
 ```
 
 ```
-ip=x; nmap -sC -sV $ip -oN $ip.nmap& 
+nmap -sS --open -p- --min-rate -n -Pn -v $rhost
 ```
 
-An alternative tool could be used to perform the scan on the full range of ports.
-
 ```
-rustscan -a $ip --ulimit 6500 --batch-size 3000 -- -sC -sV -oN $ip.nmap
+nmap -sU --open -p- --min-rate -n -Pn  -v $rhost
 ```
 
-### UDP
+### Services version
 
 ```
-nmap -F -sU -sV -iL $ips -oA nmap.udpscan -Pn
-```
-
-### Get OS version
-
-```
-sudo nmap $ip -O 
+nmap -sCV -p ports
 ```
 
 ### Host discovery
 
 ```
-sudo nmap -PEPM -sP -n $ip/24 | grep "report" | awk '{print $5}'
-```
-
-```
-sudo arp-scan -g $net/mask                                                      
+sudo nmap -PEPM -sn -n $rhost/cidr | grep report | cut -d " " -f 5
 ```
