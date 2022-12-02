@@ -23,5 +23,5 @@ nmap -sCV -p ports
 ### Host discovery
 
 ```
-sudo nmap -PEPM -sn -n $rhost/cidr | grep report | cut -d " " -f 5
+sudo nmap -PEPM -sn -n $net | grep report | cut -d " " -f 5
 ```
