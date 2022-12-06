@@ -1,5 +1,8 @@
 ---
-description: Server Site Template Injection
+description: >-
+  Server-side template injection is a type of vulnerability that occurs when
+  user-supplied data is used in the generation of a server-side template. This
+  can allow an attacker to inject malicious code.
 ---
 
 # SSTI
