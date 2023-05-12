@@ -7,11 +7,11 @@ nmap -F $rhost
 ```
 
 ```
-nmap -sS --open -p- --min-rate 5000 -n -Pn -v $rhost
+nmap -sT --reason --open -p- --min-rate 5000 -n -Pn -v $rhost
 ```
 
 ```
-nmap -sU --open -p- --min-rate 5000 -n -Pn  -v $rhost
+nmap -sU --reason --open -p- --min-rate 5000 -n -Pn  -v $rhost
 ```
 
 ### Services version
