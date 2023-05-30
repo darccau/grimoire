@@ -51,6 +51,7 @@
 ## Post Exploitation
 
 * [privilage escalation](post-exploitation/page-6.md)
+* [Full TTYs](post-exploitation/full-ttys.md)
 
 ## Networks
 
