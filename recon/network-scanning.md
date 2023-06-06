@@ -17,7 +17,7 @@ nmap -sU --reason --open -p- --min-rate 5000 -n -Pn  -v $rhost
 ### Services version
 
 ```
-nmap -sCV -p ports
+nmap -sC -sV -p ports
 ```
 
 ### Host discovery
