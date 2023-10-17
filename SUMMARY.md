@@ -2,20 +2,6 @@
 
 * [About](README.md)
 
-## CTFs
-
-* [Hack The Box](ctfs/hack-the-box/README.md)
-  * [Machines](ctfs/hack-the-box/machines/README.md)
-    * [Devel](ctfs/hack-the-box/machines/devel.md)
-    * [Paper](ctfs/hack-the-box/machines/paper.md)
-    * [Jerry](ctfs/hack-the-box/machines/jerry.md)
-    * [RouterSpace](ctfs/hack-the-box/machines/routerspace.md)
-    * [Meta](ctfs/hack-the-box/machines/meta.md)
-    * [Time](ctfs/hack-the-box/machines/time.md)
-    * [Catch](ctfs/hack-the-box/machines/catch.md)
-    * [Pandora](ctfs/hack-the-box/machines/pandora.md)
-  * [Challenges](ctfs/hack-the-box/challenges.md)
-
 ## Recon
 
 * [network scanning](recon/network-scanning.md)
